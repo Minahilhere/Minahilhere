@@ -71,4 +71,4 @@ A mobile e-commerce app with product listing, cart, and checkout features.
 <p align="center">
   <a href="mailto:minahilsiique5@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-</p>
+</p> 
