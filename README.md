@@ -33,7 +33,7 @@
 #### 🚀 **Awesome React Portfolio**
 A modern and responsive portfolio built with React.js and CSS animations.
 <br/>
-<img src="https://via.placeholder.com/800x400?text=React+Portfolio+Preview" alt="React Portfolio" />
+
 
 🔗 [Live Demo](https://yourportfolio.com) | 💻 [Source Code](https://github.com/yourusername/react-portfolio)
 
@@ -42,7 +42,6 @@ A modern and responsive portfolio built with React.js and CSS animations.
 #### 📱 **React Native Shopping App**
 A mobile e-commerce app with product listing, cart, and checkout features.
 <br/>
-<img src="https://via.placeholder.com/400x800?text=React+Native+App+Preview" width="300" />
 
 🔗 [Play Store (Coming Soon)]() | 💻 [Source Code](https://github.com/yourusername/react-native-shop)
 
